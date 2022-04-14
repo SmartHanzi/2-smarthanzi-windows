@@ -1,1 +1,1 @@
-# smarthanzi-win_v0
+# smarthanzi-windows
